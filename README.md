@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NicolasR64, IT student at Helha Montignies-sur-sambre in 3 grade.
+- 👋 Hi, I’m @NicolasR64, IT student at Helha Montignies-sur-Sambre in 3 grades.
 - 👀 I’m interested in web technologies
 - 🌱 I’m currently learning dotnet and springboot
 - 💞️ I’m looking to collaborate on **
