@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @NicolasR64, software developers on Adfinity.
-- 👀 I’m interested in web and windev technologies
-- 🌱 I’m currently learning windev and Angular.
+- 👋 Hi, I’m @NicolasR64, software developers.
+- 👀 I’m interested in web technologies
+- 🌱 I’m currently learning Angular and java springboot.
 - 📫 How to reach me personnaly nicolasravaux64@gmail.com
-- 🏢 How to contact me professionally n.ravaux@easi.com
 
 <!---
 NicolasR64/NicolasR64 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
